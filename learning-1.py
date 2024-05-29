@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""iris-trainsizesplot.py
+"""learning1.py
 """
 
 import numpy as np
